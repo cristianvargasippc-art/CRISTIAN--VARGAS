@@ -17,7 +17,7 @@
 </p>
 
 ## Quien soy?
-Soy Cristian Vargas estudiante de administracion 
+Soy Cristian Vargas estudiante de administracion <br>
 Me encantan los modelo de naciones Unidas 
 
 ### GRACIAS POR VISITAR MI SITIO 
