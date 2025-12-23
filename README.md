@@ -1,7 +1,3 @@
-# Titulo 1
-## Titutlo 2 
-### Titulo 3 
-
 # Bienvenido a mi pagina 
 
 <p align="center">
